@@ -8,14 +8,9 @@
 </svelte:head>
 
 <div class="w-full dark">
-  <div class="mt-10 p-4 max-w-3xl mx-auto">
+  <div class="mt-4 p-4 max-w-3xl mx-auto">
     <div class="mb-10">
-      <a href="https://web3privacy.info"
-        ><img
-          src="https://web3privacy.info/logo.svg"
-          class="w-[144px] h-[40px]"
-        /></a
-      >
+      <img src="/banner.jpg" class="w-full" />
     </div>
     <div class="flex items-center gap-4">
       <div class="text-3xl font-mono">
@@ -28,6 +23,14 @@
       <div class="prose prose-invert">
         <Index />
       </div>
+    </div>
+    <div class="mt-20 mb-10">
+      <a href="https://web3privacy.info"
+        ><img
+          src="https://web3privacy.info/logo.svg"
+          class="w-[144px] h-[40px]"
+        /></a
+      >
     </div>
   </div>
 </div>
