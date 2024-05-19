@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  import Index from "$lib/../../../pages/index.md";
+</script>
+
+<div class="prose prose-invert">
+  <Index />
+</div>
