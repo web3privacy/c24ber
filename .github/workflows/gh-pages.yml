@@ -28,7 +28,7 @@ jobs:
       - uses: actions/setup-node@v4
 
       - name: Install deps
-        run: cd web && npm ci
+        run: cd web && npm ci --force
 
       - name: Build web
         run: cd web && npm run build
