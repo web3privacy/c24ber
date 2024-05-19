@@ -12,6 +12,11 @@ If you want to test your use-case idea, get feedback on privacy issues, or look 
 | Friday | 20:00 - 21:00 | Projects Ideation & Team Finding Session |
 | Saturday | 16:00 - 17:00 | Project Pitches & Feedback Session |
 
+## Our Mentors
+
+* [Nick Almond](https://twitter.com/DrNickA) (FactoryDAO)
+* [Mykola Siusko](https://twitter.com/nicksvyaznoy) (Web3Privacy Now)
+
 ## Location
 
 You can find us in the **Library** on the First floor (#1), located above *Node Cafe* near Staircase 0 ([venue map](https://ethberlin.org/venue/)).
