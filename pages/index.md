@@ -6,9 +6,9 @@
 If you want to test your use-case idea, get feedback on privacy issues, or look at the demo feasibility within hackathon - come & talk to us. We have a cool framework for privacy ideas attestation, a new book on Tor, wow-posters & fun privacy-tarot deck with Amir Taaki or David Chaum as characters :)
 
 Privacy Corner will be open throughout the hackathon:
-* Friday: **18:00 - 23:00**
+* Friday: **19:00 - 23:00**
 * Saturday: **10:00 - 23:00** (break 13-15h)
-* Sunday: **9:00 - 17:00** (break 12-15h)
+* Sunday: **9:00 - 16:30** (break 12-15h)
 
 *Note: These times are approximate only and subject to change*
 
