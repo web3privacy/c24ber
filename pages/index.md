@@ -26,6 +26,7 @@ Privacy Corner will be open throughout the hackathon:
 * [Mario Havel](https://twitter.com/TMIYChao) (Ethereum Foundation)
 * [Ying Tong](https://twitter.com/therealyingtong) (Geometry Research)
 * [Max](https://twitter.com/_wjth) (Nym)
+* [Guru](https://x.com/hackyguru) (Waku)
 
 ## Location 
 
