@@ -31,6 +31,11 @@ Privacy Corner will be open throughout the hackathon:
 
 You can find us in the **Library** on the First floor (#1), located above *Node Cafe* near Staircase 0 ([venue map](https://ethberlin.org/venue/)).
 
+### Amenities
+
+* chillout-zone
+* flipcharts/whiteboards
+
 ## Team
 
 * Tree
