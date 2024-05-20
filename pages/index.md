@@ -23,6 +23,7 @@ Privacy Corner will be open throughout the hackathon:
 
 * [Nick Almond](https://twitter.com/DrNickA) (FactoryDAO)
 * [Mykola Siusko](https://twitter.com/nicksvyaznoy) (Web3Privacy Now)
+* [Mario Havel](https://twitter.com/TMIYChao) (Ethereum Foundation)
 
 ## Location 
 
