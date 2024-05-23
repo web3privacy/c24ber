@@ -2,6 +2,7 @@
 
 * Date: **May 24-26, 2024**
 * Location: ETHBerlin venue → **Library** (1st floor)
+* Public matrix channel: https://matrix.to/#/!sWkoQOHBaWYyfNSMMw:matrix.org
 
 If you want to test your use-case idea, get feedback on privacy issues, or look at the demo feasibility within hackathon - come & talk to us. We have a cool framework for privacy ideas attestation, a new book on Tor, wow-posters & fun privacy-tarot deck with Amir Taaki or David Chaum as characters :)
 
@@ -21,12 +22,13 @@ Privacy Corner will be open throughout the hackathon:
 
 ## Our Mentors
 
-* [Nick Almond](https://twitter.com/DrNickA) (FactoryDAO)
 * [Mykola Siusko](https://twitter.com/nicksvyaznoy) (Web3Privacy Now)
+* [Nick Almond](https://twitter.com/DrNickA) (FactoryDAO)
 * [Mario Havel](https://twitter.com/TMIYChao) (Ethereum Foundation)
 * [Ying Tong](https://twitter.com/therealyingtong) (Geometry Research)
 * [Max](https://twitter.com/_wjth) (Nym)
 * [Guru](https://x.com/hackyguru) (Waku)
+* [Lefteris Karapetsas](https://x.com/lefterisjp) (Rotki)
 
 ## Location 
 
@@ -36,6 +38,11 @@ You can find us in the **Library** on the First floor (#1), located above *Node 
 
 * chillout-zone
 * flipcharts/whiteboards
+
+## Matrix channel
+
+You can contact us online during the hackathon using Privacy Corner public Matrix channel:
+* https://matrix.to/#/!sWkoQOHBaWYyfNSMMw:matrix.org
 
 ## Team
 
