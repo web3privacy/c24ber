@@ -53,5 +53,6 @@ You can contact us online during the hackathon using Privacy Corner public Matri
 
 ## Links
 
+* Matrix: https://matrix.to/#/!sWkoQOHBaWYyfNSMMw:matrix.org
 * GitHub: https://github.com/web3privacy/c24ber
 * Twitter: [@web3privacy](https://twitter.com/web3privacy)
